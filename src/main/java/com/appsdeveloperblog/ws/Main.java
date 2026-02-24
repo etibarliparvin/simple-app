@@ -13,4 +13,8 @@ public class Main {
         System.out.println("fatime2");
     }
 
+    public static void fuad1() {
+        System.out.println("fuad1");
+    }
+
 }
