@@ -4,4 +4,13 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
+
+    public static void fatime1() {
+        System.out.println("fatime1");
+    }
+
+    public static void fatime2() {
+        System.out.println("fatime2");
+    }
+
 }
