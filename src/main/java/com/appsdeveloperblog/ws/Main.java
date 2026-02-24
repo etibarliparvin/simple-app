@@ -9,4 +9,8 @@ public class Main {
         System.out.println("fatime1");
     }
 
+    public static void fatime2() {
+        System.out.println("fatime2");
+    }
+
 }
