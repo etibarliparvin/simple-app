@@ -14,7 +14,12 @@ public class Main {
     }
 
     public static void fuad1() {
-        System.out.println("fuad1");
+        System.out.println("fuad3");
+    }
+
+    public static void bilal() {
+        System.out.println("bilal started");
+        System.out.println("bilal ended");
     }
 
 }
