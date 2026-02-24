@@ -14,7 +14,11 @@ public class Main {
     }
 
     public static void fuad1() {
-        System.out.println("fuad1");
+        System.out.println("fuad2");
     }
 
+    public static void shahin() {
+        System.out.println("shahin started");
+        System.out.println("shahin ended");
+    }
 }
