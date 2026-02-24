@@ -17,6 +17,11 @@ public class Main {
         System.out.println("fuad2");
     }
 
+    public static void bilal() {
+        System.out.println("bilal started");
+        System.out.println("bilal ended");
+    }
+
     public static void shahin() {
         System.out.println("shahin started");
         System.out.println("shahin ended");
