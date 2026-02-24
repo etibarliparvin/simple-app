@@ -26,4 +26,8 @@ public class Main {
         System.out.println("shahin started");
         System.out.println("shahin ended");
     }
+
+    public static void mushfiq() {
+        System.out.println("mushfig1");
+    }
 }
