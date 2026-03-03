@@ -3,6 +3,7 @@ package com.appsdeveloperblog.ws;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        System.out.println("parvin1");
     }
 
     public static void fatime1() {
@@ -30,4 +31,5 @@ public class Main {
     public static void mushfiq() {
         System.out.println("mushfig1");
     }
+
 }
